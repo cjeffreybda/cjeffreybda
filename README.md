@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi, I'm Clark 👋
+
+- I'm studying <span style="color:blue;">mechanical engineering</span> ⚙️ at <span style="color:blue;">UBC</span>
+- I'm working on <<span style="color:blue;">autonomous underwater vehicles</span> 🤿 with <span style="color:blue;">UBC Subbots</span>
 
 <!--
 **cjeffreybda/cjeffreybda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
