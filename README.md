@@ -8,7 +8,7 @@
 - 🌐 a **portfolio website** using HTML, CSS, and JavaScript.
 
 #### I'm learning about:
-- 👆 pointers and dereferencing
+- 👆 pointers and references
 - 💽 bitwise operations
 - 🧵 multithreading 
 - ⚡ optimisation.
