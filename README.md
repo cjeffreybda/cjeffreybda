@@ -5,7 +5,7 @@
 #### I'm currently working on:
 - 🤿 an **autonomous underwater vehicle** with UBC Subbots
 - ♟️ a **chess engine** using C++ and wxWidgets
-- 🌐 a **portfolio website** using HTML, CSS, and JavaScript.
+- 🌐 a [**portfolio website**](https://cjeffreybda.github.io) using HTML, CSS, and JavaScript.
 
 #### I'm learning about:
 - 👆 pointers and references
