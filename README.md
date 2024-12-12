@@ -1,17 +1,19 @@
 ## Hi, I'm Clark 👋
+> They/Any
 
-#### I'm studying **mechanical engineering** ⚙️ at UBC.
+I'm a third-year student studying **mechatronics engineering** ⚙ at UBC. I'm particularly interested in controls, and more generally the intersection of mathematics and mechatronic design.
+
+Check out my custom-made [**portfolio website**](https://cjeffreybda.github.io/) for a collection of my past projects!
 
 #### I'm currently working on:
-- 🤿 an **autonomous underwater vehicle** with UBC Subbots
-- ♟️ a **chess engine** using C++ and wxWidgets
-- 🌐 a [**portfolio website**](https://cjeffreybda.github.io/) using HTML, CSS, and JavaScript.
+- 🤿 an **autonomous underwater vehicle** with [UBC Subbots](https://www.subbots.ca/#/)
+- 📊 a **buoyancy analysis program** for Onshape assemblies using JavaScript, and Onshape's REST API.
 
 #### I'm learning about:
-- 👆 pointers and references
-- 💽 bitwise operations
-- 🧵 multithreading 
-- ⚡ optimisation.
+- 🔄 quaternions
+- 🌐 API interfacing
+- 🧵 asynchronous functions and multithreading
+- 🖥 desktop app development.
 
 <!--
 **cjeffreybda/cjeffreybda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
