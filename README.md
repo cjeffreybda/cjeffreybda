@@ -7,7 +7,7 @@ Check out my custom-made [**portfolio website**](https://cjeffreybda.github.io/)
 
 #### I'm currently working on:
 - 🤿 an **autonomous underwater vehicle** with [UBC Subbots](https://www.subbots.ca/#/)
-- 📊 a **buoyancy analysis program** for Onshape assemblies using JavaScript, and Onshape's REST API.
+- 📊 a **buoyancy analysis program** for Onshape assemblies, using JavaScript and Onshape's REST API.
 
 #### I'm learning about:
 - 🔄 quaternions
