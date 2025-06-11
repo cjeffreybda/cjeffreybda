@@ -1,9 +1,9 @@
 ## Hi, I'm Clark 👋
-> They/Any
+> Any/All
 
 I'm a third-year student studying **mechatronics engineering** ⚙ at UBC. I'm particularly interested in controls, and more generally the intersection of mathematics and mechatronic design.
 
-Check out my custom-made [**portfolio website**](https://cjeffreybda.github.io/) for a collection of my past projects!
+Check out my custom-made [**personal website**](https://cjeffrey.ca/) for a collection of my past projects!
 
 #### I'm currently working on:
 - 🤿 an **autonomous underwater vehicle** with [UBC Subbots](https://www.subbots.ca/#/)
